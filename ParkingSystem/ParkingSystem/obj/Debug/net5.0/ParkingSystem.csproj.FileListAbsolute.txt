@@ -1,0 +1,16 @@
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ParkingSystem.exe
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ParkingSystem.deps.json
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.json
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.dev.json
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ParkingSystem.dll
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ref\ParkingSystem.dll
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\bin\Debug\net5.0\ParkingSystem.pdb
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.AssemblyReference.cache
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfoInputs.cache
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfo.cs
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.CoreCompileInputs.cache
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.dll
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ref\ParkingSystem.dll
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.pdb
+G:\Job Appliances\One Code Solution\Technical Test\ParkingSystem\ParkingSystem\obj\Debug\net5.0\ParkingSystem.genruntimeconfig.cache
